@@ -1,0 +1,84 @@
+# 📊 Student Performance Dataset - Overview
+
+## 📌 Description
+
+This dataset is used to analyze student academic performance based on various factors such as study time, past failures, and attendance. The main goal is to understand which factors affect students' final grades and to build insights using data analysis and visualization tools like Power BI.
+
+---
+
+## 📂 Dataset Columns Information ( Important One )
+
+### 1. Study Time (`studytime`)
+
+* Represents the amount of time a student spends studying.
+* Usually categorized into levels (e.g., low to high).
+* Higher study time may lead to better performance.
+
+---
+
+### 2. Failures (`failures`)
+
+* Number of past class failures.
+* Higher values indicate weaker academic history.
+* Strong negative impact on final performance.
+
+---
+
+### 3. Absences (`absences`)
+
+* Total number of school absences.
+* High absences may reduce academic performance.
+
+---
+
+### 4. First Period Grade (`G1`)
+
+* Marks obtained in the first evaluation period.
+* Early indicator of student performance.
+
+---
+
+### 5. Second Period Grade (`G2`)
+
+* Marks obtained in the second evaluation period.
+* Strong predictor of final grade.
+
+---
+
+### 6. Final Grade (`G3`)
+
+* Final exam grade (Target Variable).
+* This is the main column used for analysis and prediction.
+
+---
+
+## 🎯 Objective of Analysis
+
+* Identify key factors affecting student performance
+* Analyze relationships between study habits and grades
+* Detect patterns such as failures vs performance
+* Build dashboards for better insights
+
+---
+
+## 📊 Possible Analysis
+
+* Study time vs Final Grade
+* Failures vs Performance
+* Absences impact on grades
+* G1 & G2 correlation with G3
+
+---
+
+## 🧠 Key Insight Idea
+
+Early grades (G1, G2) and study time are expected to have a strong impact on final performance, while failures and absences may negatively affect results.
+
+---
+
+## 🛠️ Tools Used
+
+* Power BI (for dashboard and visualization)
+
+
+---
