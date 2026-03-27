@@ -38,8 +38,8 @@ This challenge is focused on building real-world projects using **Power BI**, im
 
 | Project No. | Project Title                | Status        |
 | ----------- | ---------------------------- | ------------- |
-| 1           | Student Performance Analysis | ⏳ In Progress |
-| 2           | Coming Soon                  | 🔒            |
+| 1           | Student Performance Analysis |   Completed    |
+| 2           | Netflix 2019 Data Analysis   |   Completed    |
 | 3           | Coming Soon                  | 🔒            |
 | 4           | Coming Soon                  | 🔒            |
 | 5           | Coming Soon                  | 🔒            |
