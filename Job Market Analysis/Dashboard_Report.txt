@@ -1,0 +1,130 @@
+Job Market Analysis Dashboard Report
+1. Introduction
+
+This dashboard report presents an analysis of job postings data including job titles, experience requirements, company information, applicants, salary ranges, and job locations. The purpose of this dashboard is to understand job market trends, hiring patterns, and demand for different roles and experience levels.
+
+The dashboard was created to help analyze recruitment trends, job demand by industry, experience requirements, and applicant behavior.
+
+2. Dataset Description
+
+The dataset used in this dashboard contains the following columns:
+
+Job Posting ID
+Job Posting Date
+Job Title
+Job Title Full
+Job Title Additional Info
+Job Position Type
+Job Position Level
+Years of Experience
+Job Skills
+Job Location
+Minimum Pay
+Maximum Pay
+Pay Rate
+Number of Applicants
+Company Name
+Company Industry
+Company Size
+
+These attributes help analyze job demand, salary trends, company hiring patterns, and applicant distribution.
+
+3. Dashboard Overview
+
+The dashboard includes the following visualizations:
+
+Job postings by year
+Applicants by year
+Experience level distribution
+Job roles distribution
+Company size vs applicants
+Industry-wise job postings
+Job location map
+Experience vs job roles
+Filters for Month, Industry, and Job Level
+
+These visuals help users interact with the data and explore hiring trends.
+
+4. Key Insights from Dashboard
+4.1 Job Posting Trends
+
+The number of job postings increased from 2018 to 2021.
+This indicates that the job market demand is growing over time, especially in recent years.
+
+4.2 Applicants Trend
+
+The total number of applicants recorded is 209.
+The number of applicants increased in recent years, which shows increasing competition in the job market.
+
+4.3 Experience Requirements
+
+The average years of experience required is 2.67 years.
+Most jobs are for:
+
+Junior level
+Mid-level
+
+This means the dataset mainly represents early-career and mid-career opportunities.
+
+4.4 Job Roles Demand
+
+The most common job roles observed are:
+
+Software Engineer
+Data Analyst
+Data Engineer
+
+This shows that technical and data-related jobs are in high demand.
+
+4.5 Company Size Analysis
+
+Large companies receive more job applications compared to small companies.
+This suggests that job seekers prefer applying to larger organizations.
+
+4.6 Industry Analysis
+
+The Education Management industry shows significant hiring activity compared to some other industries in the dataset.
+
+4.7 Job Type Analysis
+
+Most job postings are Full-Time positions, while part-time and contract jobs are fewer.
+
+4.8 Location Analysis
+
+Most jobs are located in the United States, indicating that the dataset is mainly focused on the US job market.
+
+4.9 Salary Data Issue
+
+Minimum Pay and Maximum Pay values are missing or blank in the dashboard, which means salary analysis cannot be fully performed. This is a limitation of the dataset.
+
+5. Dashboard Filters
+
+The dashboard includes interactive filters for:
+
+Month
+Industry
+Job Position Level (Junior / Mid Level)
+
+These filters allow users to analyze job postings for specific time periods, industries, and experience levels.
+
+6. Conclusion
+
+The dashboard analysis shows that job postings and applicant numbers are increasing over time, indicating a growing and competitive job market. Most job opportunities are available for junior and mid-level candidates, especially in technical roles such as Software Engineering and Data Analysis. Larger companies attract more applicants, and most jobs are full-time positions located in the United States.
+
+Overall, this dashboard helps understand hiring trends, job demand, and experience requirements in the job market.
+
+7. Tools Used
+Power BI (Dashboard Development)
+Data Cleaning
+Data Visualization
+Data Analysis
+8. Project Objective
+
+The main objectives of this project are:
+
+Analyze job market trends
+Identify in-demand job roles
+Analyze experience requirements
+Study applicant behavior
+Understand company hiring patterns
+Visualize job data using dashboard
