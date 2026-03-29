@@ -1,0 +1,29 @@
+Project: Job Market Analysis Dashboard
+
+This project analyzes job market trends using a dataset of job postings. 
+The dashboard provides insights into job demand, applicant trends, experience requirements, and industry distribution.
+
+Key Highlights:
+
+- Job postings increased significantly from 2018 to 2021, showing growth in the job market.
+- Total applicants recorded: 209.
+- Average required experience is 2.67 years, indicating demand for junior and mid-level roles.
+- Most common job roles include Software Engineer, Data Analyst, and Data Engineer.
+- Larger companies attract more applicants compared to smaller companies.
+- Majority of job postings are full-time positions.
+- Jobs are mostly located in the United States.
+- Education Management industry shows notable hiring activity.
+
+Issues:
+
+- Salary-related fields (Minimum and Maximum Pay) contain missing or blank values.
+- Some visualizations may require improvement for better clarity.
+
+Tools Used:
+
+- Power BI (Dashboard creation)
+- Dataset with job postings information
+
+Purpose:
+
+To understand hiring trends, job demand, and skill requirements in the modern job market.
