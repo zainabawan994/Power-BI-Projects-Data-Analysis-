@@ -40,7 +40,7 @@ This challenge is focused on building real-world projects using **Power BI**, im
 | ----------- | ---------------------------- | ------------- |
 | 1           | Student Performance Analysis |   Completed    |
 | 2           | Netflix 2019 Data Analysis   |   Completed    |
-| 3           | Coming Soon                  | 🔒            |
+| 3           | Job Market Analysis              |  Completed           |
 | 4           | Coming Soon                  | 🔒            |
 | 5           | Coming Soon                  | 🔒            |
 | 6           | Coming Soon                  | 🔒            |
